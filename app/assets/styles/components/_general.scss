@@ -1,0 +1,17 @@
+body{
+	background-color: red;
+	color: white;
+	height: 1500px;
+	width: 100%;
+	background: green;
+}
+h1{
+	font-size: 42px;
+	color: white;
+}
+p{
+	font-size: $size_14;
+	color: $color_black;
+	display: flex;
+	border: 1px solid black;
+}
